@@ -7,5 +7,7 @@ const reverseString = function(string) {
     return newString;
 };
 
+console.log(reverseString('hello'))
+
 // Do not edit below this line
 module.exports = reverseString;
